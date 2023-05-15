@@ -12,9 +12,7 @@
 
 ## 배경 및 필요성
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+왜 안 바뀌지 이러면 바뀌어야 되는데
 
 ## 분석목적
 
