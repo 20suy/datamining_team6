@@ -12,9 +12,9 @@
 
 ## 배경 및 필요성
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+자기관리에 대한 트렌드가 발전하는 시대속에서 건강과 운동의 중요성에 대한 인식 증가
+칼로리 관리를 위해 건강 관련 애플리케이션에 대한 관심과 활용도 증가
+칼로리 소모량을 추정하는 AI 모델 개발이 주목받고 있음 
 
 ## 분석목적
 
